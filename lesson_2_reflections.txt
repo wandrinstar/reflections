@@ -1,1 +1,2 @@
 Initializing a repository creates a .git directory which contains the git metadata. This allows you to perform git commands such as 'commit'.
+The staging area holds only the files that we want to include in the new commit while the working directory is not even linked to github. These are stupid things to compare. The repository holds all the files along with their histories. The value of the staging area is that it creates one snapshot that we may want to go back to later
