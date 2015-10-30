@@ -1,0 +1,1 @@
+Initializing a repository creates a .git directory which contains the git metadata. This allows you to perform git commands such as 'commit'.
